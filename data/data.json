@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://static.vecteezy.com/system/resources/previews/005/604/210/original/a-woman-chef-wearing-a-white-coat-red-apron-and-a-kitchen-hood-on-her-head-while-smiling-free-vector.jpg",
+        "chef_name": "Alice Johnson",
+        "chef_bio": "Alice Johnson is a culinary expert with over 10 years of experience in the food industry. She is known for her innovative recipes and creative use of ingredients. Alice has a passion for creating delicious meals that are both healthy and satisfying.",
+        "years_of_experience": 10,
+        "num_of_recipes": 75,
+        "likes": 3500,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Roasted Chicken with Vegetables",
+                "ingredients": [
+                    "1 whole chicken",
+                    "2 cups baby carrots",
+                    "2 cups halved baby potatoes",
+                    "1 large onion, sliced",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons olive oil",
+                    "1 tablespoon dried rosemary",
+                    "1 tablespoon dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat oven to 425°F. 2. Rinse and pat dry the chicken, then place in a roasting pan.  3. Toss the vegetables with olive oil, garlic, and herbs. Arrange the vegetables around the chicken in the pan. 4. Season everything with salt and pepper. 5. Roast for about 1 hour or until chicken is fully cooked and vegetables are tender. 6. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Pasta Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 strips bacon, chopped",
+                    "4 cloves garlic, minced",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 cup heavy cream",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Cook pasta according to package instructions. 2. Meanwhile, cook bacon in a skillet over medium heat until crispy. Add garlic and cook for another minute. 3. In a bowl, whisk together eggs, Parmesan cheese, heavy cream, salt, and pepper. 4. Drain the pasta and return to the pot. Immediately add the egg mixture and toss until the sauce thickens and coats the pasta. 5. Add the bacon and garlic, and toss again. 6. Serve with extra Parmesan cheese and black pepper.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 pound beef sirloin, sliced thin",
+                    "1 head broccoli, cut into florets",
+                    "1 bell pepper, sliced",
+                    "4 cloves garlic, minced",
+                    "1 tablespoon grated ginger",
+                    "3 tablespoons soy sauce",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon cornstarch"
+                ],
+                "cooking_method": "1. Mix together soy sauce, oyster sauce, cornstarch, and water in a bowl. 2. Heat a large skillet over high heat. Add vegetable oil and swirl to coat. 3. Add beef and cook for 2-3 minutes until browned. Remove beef from skillet and set aside. 4. Add broccoli, bell pepper, garlic, and ginger to the skillet. Stir-fry for 3-4 minutes until vegetables are tender-crisp. 5. Add the beef back to the skillet and pour the sauce over everything. Stir-fry for another minute or until the sauce thickens. 6. Serve hot with rice or noodles.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://img.freepik.com/premium-vector/smiling-chef-cartoon-character_8250-10.jpg?w=2000",
+        "chef_name": "Bob Lee",
+        "chef_bio": "Bob Lee is a culinary expert with over 8 years of experience in the food industry. He is known for his innovative recipes and creative use of ingredients. Bob has a passion for creating delicious meals that are both healthy and satisfying.",
+        "years_of_experience": 8,
+        "num_of_recipes": 50,
+        "likes": 2000,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Roasted Chicken with Vegetables",
+                "ingredients": [
+                    "1 whole chicken",
+                    "2 cups baby carrots",
+                    "2 cups halved baby potatoes",
+                    "1 large onion, sliced",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons olive oil",
+                    "1 tablespoon dried rosemary",
+                    "1 tablespoon dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat oven to 425°F. 2. Rinse and pat dry the chicken, then place in a roasting pan.  3. Toss the vegetables with olive oil, garlic, and herbs. Arrange the vegetables around the chicken in the pan. 4. Season everything with salt and pepper. 5. Roast for about 1 hour or until chicken is fully cooked and vegetables are tender. 6. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Pasta Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 strips bacon, chopped",
+                    "4 cloves garlic, minced",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 cup heavy cream",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Cook pasta according to package instructions. 2. Meanwhile, cook bacon in a skillet over medium heat until crispy. Add garlic and cook for another minute. 3. In a bowl, whisk together eggs, Parmesan cheese, heavy cream, salt, and pepper. 4. Drain the pasta and return to the pot. Immediately add the egg mixture and toss until the sauce thickens and coats the pasta. 5. Add the bacon and garlic, and toss again. 6. Serve with extra Parmesan cheese and black pepper.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 pound beef sirloin, sliced thin",
+                    "1 head broccoli, cut into florets",
+                    "1 bell pepper, sliced",
+                    "4 cloves garlic, minced",
+                    "1 tablespoon grated ginger",
+                    "3 tablespoons soy sauce",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon cornstarch"
+                ],
+                "cooking_method": "1. Mix together soy sauce, oyster sauce, cornstarch, and water in a bowl. 2. Heat a large skillet over high heat. Add vegetable oil and swirl to coat. 3. Add beef and cook for 2-3 minutes until browned. Remove beef from skillet and set aside. 4. Add broccoli, bell pepper, garlic, and ginger to the skillet. Stir-fry for 3-4 minutes until vegetables are tender-crisp. 5. Add the beef back to the skillet and pour the sauce over everything. Stir-fry for another minute or until the sauce thickens. 6. Serve hot with rice or noodles.",
+                "rating": 4.2
+            }
+        ]
+    }
+    
+]
